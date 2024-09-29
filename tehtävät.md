@@ -46,6 +46,61 @@ Yhteen tauluun kohdistuvien kyselyiden harjoitukset
 
 ![image](https://github.com/user-attachments/assets/babdc56d-53f3-43bc-b9c4-e738ff3783f6)
 
+Where-osan liitosehto harjoitukset
+
+1, 
+
+![image](https://github.com/user-attachments/assets/16b84c48-1dec-43f1-b721-7e4366208942)
+
+2, 
+
+![image](https://github.com/user-attachments/assets/b20cc58f-6d9d-4d26-b1fe-b61aefdeca4b)
+
+![image](https://github.com/user-attachments/assets/6afeab6d-b0ca-4bf7-8daa-40b131766ab9)
+
+3, 
+
+![image](https://github.com/user-attachments/assets/90a27b89-d131-49a3-8da4-021bad1e5519)
+
+4, 
+
+![image](https://github.com/user-attachments/assets/7bc8d131-f210-4aa5-b611-694c55bde59e)
+
+![image](https://github.com/user-attachments/assets/eddcc224-74e9-4b64-99a1-56990a6245ee)
+
+5, 
+
+![image](https://github.com/user-attachments/assets/240d7178-05dd-435f-b61d-203cf443ac89)
+
+![image](https://github.com/user-attachments/assets/be8dc8d4-9146-4985-a521-13e5006b51c4)
+
+6, 
+
+![image](https://github.com/user-attachments/assets/3f4ec08f-d582-492e-a9ae-e6b7a1a34967)
+
+![image](https://github.com/user-attachments/assets/15901f49-a534-4ecf-b92f-fe3483107767)
+
+7, 
+
+![image](https://github.com/user-attachments/assets/153017ae-7666-4b13-b98c-60e08b0e1381)
+
+![image](https://github.com/user-attachments/assets/835b8713-ef0e-4df2-a64c-c58f8732b809)
+
+8, 
+
+![image](https://github.com/user-attachments/assets/999d1929-ddca-4a4a-af9d-a63a73994547)
+
+![image](https://github.com/user-attachments/assets/a7e761ab-70c9-4565-b931-4efcdafb591a)
+9, 
+
+![image](https://github.com/user-attachments/assets/6be93e26-a158-4a46-a789-c09234939c94)
+
+![image](https://github.com/user-attachments/assets/bee013e1-05a1-4a07-a1ec-08f5abd713a5)
+
+10, mä vähän niinku tein tehtävän missä piti poistaa juttuja, joten suurin osa asioista ei enään toimi mariaDB:ssä, joten jos en ie toimi moodlessa niin en saa enään tuloksia...
+
+![image](https://github.com/user-attachments/assets/9e751ddc-92f4-4ddf-a5bc-69be88fe6d1a)
+
 osa 3
 
 join harjoitukset
