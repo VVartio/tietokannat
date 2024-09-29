@@ -1,8 +1,8 @@
-osa 1
+osio 1
 
 well... 
 
-osa 2 
+osio 2 
 
 Yhteen tauluun kohdistuvien kyselyiden harjoitukset
 
@@ -101,16 +101,46 @@ Where-osan liitosehto harjoitukset
 
 ![image](https://github.com/user-attachments/assets/9e751ddc-92f4-4ddf-a5bc-69be88fe6d1a)
 
-osa 3
+osio 3
 
 join harjoitukset
+1, 
+
+![image](https://github.com/user-attachments/assets/03c3b261-c4d9-4c3e-aae1-9e2641c3027c)
+
+![image](https://github.com/user-attachments/assets/fa44e605-c3bf-4129-9dac-000322336e29)
+
+2, 
+
+![image](https://github.com/user-attachments/assets/11c06200-a7b9-4cc3-9bde-2dbadf801508)
+
+![image](https://github.com/user-attachments/assets/fa814549-2a10-4530-8fce-30c40728cd31)
+
+3, 
+
+![image](https://github.com/user-attachments/assets/9eebc91f-af91-434c-a40b-93fd348899f6)
+
+![image](https://github.com/user-attachments/assets/91868697-2144-4d89-93ff-35dd22cc98ce)
+
+4, 
+
+![image](https://github.com/user-attachments/assets/ee14fd27-0ff9-410e-9f19-a19ea92a83d6)
+
+![image](https://github.com/user-attachments/assets/a47685d2-4d9e-4f26-b9e5-f0b9b8bc1d25)
+
+5, 
+
+![image](https://github.com/user-attachments/assets/da01d8ef-db79-4a88-b1f5-32df7e9d4d4c)
+
+![image](https://github.com/user-attachments/assets/40e04527-5bdb-4a32-bf7e-682a111d05d4)
+
 
 tehtävä 5
 
 ![image](https://github.com/user-attachments/assets/046aa0d4-b3ba-46b6-95e1-c0f4aa47330d)
 
 
-osa 4
+osio 4
 
 koostetieto kysely harjoitukset
 tehtävä 9
